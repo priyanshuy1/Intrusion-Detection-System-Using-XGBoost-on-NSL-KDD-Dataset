@@ -49,6 +49,10 @@ The model detects:
 * High accuracy in classifying normal vs attack traffic
 * Effective detection of multiple attack types
 
+## Key Highlight
+
+This project demonstrates how machine learning can be used to detect cyber attacks based on network traffic patterns, providing an alternative to traditional signature-based IDS systems.
+
 ## Future Improvements
 
 * Real-time traffic integration
